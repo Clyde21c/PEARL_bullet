@@ -1,0 +1,4 @@
+python launch_experiment.py --config ./configs/cheetah-dir.json --gpu False
+python launch_experiment.py --config ./configs/cheetah-vel.json --gpu False
+python sim_policy.py --config ./configs/cheetah-dir.json --path ./load_model/dir/ --render
+python sim_policy.py --config ./configs/cheetah-vel.json --path ./load_model/vel/ --render
