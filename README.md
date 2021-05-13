@@ -9,4 +9,4 @@ This repository is a temporary repository for example codes for a Meta-learning 
 The code runs on PyBullet instead of the MuJoCo simulator.   
 The dependency on the rlkit library used by the original repository has been removed in here.
 
-***As it is a temporary code, the inner structure is fairly rough and will change frequently.***
+***As it is a temporary code, the inner structure is fairly rough and will be changed frequently.***
