@@ -10,3 +10,4 @@ The code runs on PyBullet instead of the MuJoCo simulator.
 The dependency on the rlkit library used by the original repository has been removed in here.
 
 ***As it is a temporary code, the inner structure is fairly rough and will be changed frequently.***
+This repository has been refactored in https://github.com/dongminlee94/meta-rl for coherence between the other meta-rl algorithm covered by the book
